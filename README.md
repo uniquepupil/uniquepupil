@@ -1,5 +1,5 @@
 # 💫 About Me:
-𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br> I'm uniquepupil<br>A passionate developer from India<br>I’m a final year student in Information Technology.<br> I enjoy learning new things. <br> Looking to work on Projects 
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br> I'm uniquepupil<br>A passionate developer from India<br>I’m a final year student in Information Technology.<br> I enjoy learning new things. <br> Looking to work on Projects .
 
 
 ## 🌐 Socials:
