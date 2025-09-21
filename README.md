@@ -15,10 +15,3 @@
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uniquepupil&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-### Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Meme of the day
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
