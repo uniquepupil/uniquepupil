@@ -1,5 +1,6 @@
 # About Me:
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br> I'm Parikshit<br>A passionate developer from India<br> I enjoy learning new things. <br> Looking to work on Projects .
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uniquepupil&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepupil" /> </p>
 
 
 ##  Socials:
